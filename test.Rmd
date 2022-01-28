@@ -1,0 +1,24 @@
+---
+title: "Untitled"
+author: "Grace Armstrong"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+# setting x to 1
+x = 1
+```
+
+```{r}
+y = 2
+```
+
+```{r}
+  git config --global user.email "gqa@case.edu"
+  git config --global user.name "graceqarmstrong"
+```
+
